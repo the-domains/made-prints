@@ -1,4 +1,3 @@
-layout_spectrum: 0.8831563638523221
 typography_spectrum: 0.4245680128224194
 color:
   brandStrength: 0.06963809696026146
@@ -11,4 +10,6 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.8831563638523221
 name: Made Prints
+title: MADE PRINTS
